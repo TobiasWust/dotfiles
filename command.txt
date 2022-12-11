@@ -1,0 +1,2 @@
+ln -nfs /home/wust/Documents/dev/System/dotfiles/.zshrc /home/wust/.zshrc
+
